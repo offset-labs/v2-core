@@ -1,7 +1,7 @@
 {
   "name": "@offsetcarbon/v2-core",
   "description": "🎛 Core contracts for the OffsetCarbonV2 protocol",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://offsetcarbon.xyz",
   "repository": {
     "type": "git",
